@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asjid Khalid</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaad09&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaad09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asjidmalik9&label=Profile%20views&color=0e75b6&style=flat" alt="asjidmalik9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsaad09" alt="muhammadsaad09" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asjidmalik" alt="asjidmalik9" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://asjidkhalidportfolio.vercel.app/](https://asjidkhalidportfolio.vercel.app/)
 
